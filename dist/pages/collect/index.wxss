@@ -1,0 +1,22 @@
+
+.index {
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+}
+.infiniteLi {
+  margin-top: 20rpx;
+  font-size: 28rpx;
+  color: rgba(100, 100, 100, 1);
+  text-align: center;
+}
+.resize{
+  border-radius: 16rpx;
+}
+.del{
+    left: 10rpx;
+    top: 10rpx;
+    color:saddlebrown;
+}
+
